@@ -24,7 +24,7 @@ Password Validator is a Python application designed to help users create strong 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/<your-username>/password-validator.git
+    git clone https://github.com/aytugyuruk/password-validator.git
     ```
 
 2. Navigate to the project directory:
